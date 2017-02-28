@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOAP</string>
+    <string name="hello_world">Hello world SOAP</string>
+    <string name="ejecutarServicio">Call SOAP</string>
+    <string name="action_settings">Settings</string>
+    
+
+</resources>
